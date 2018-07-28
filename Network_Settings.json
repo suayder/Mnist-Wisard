@@ -1,0 +1,7 @@
+{
+    "n_inputs_ram":19,
+    "examples_samples":6000,
+    "training_dataset":".",
+    "testing_dataset":".",
+    "result":"result/result.dat"
+}
