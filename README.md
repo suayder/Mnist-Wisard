@@ -1,5 +1,5 @@
 # Mnist-Wisard
-This is a simple WISARD implementation and testing with [MNIST](http://yann.lecun.com/exdb/mnist/) dataset
+This is a simple WISARD Neural Network implementation and testing with [MNIST](http://yann.lecun.com/exdb/mnist/) dataset
 
 ## What do i need?
 
