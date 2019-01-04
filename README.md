@@ -1,5 +1,5 @@
 # Mnist-Wisard
-This is a simple WISARD Neural Network implementation and testing with [MNIST](http://yann.lecun.com/exdb/mnist/) dataset. The article of this repo can be find [here](https://www.researchgate.net/publication/330080182_Avaliacao_da_rede_neural_sem_peso_WISARD_na_base_de_dados_MNIST)
+This is a simple WISARD Neural Network implementation and testing with [MNIST](http://yann.lecun.com/exdb/mnist/) dataset. The article about this repo can be found [here](https://www.researchgate.net/publication/330080182_Avaliacao_da_rede_neural_sem_peso_WISARD_na_base_de_dados_MNIST)
 
 ## What do i need?
 
